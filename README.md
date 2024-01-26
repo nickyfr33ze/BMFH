@@ -1,7 +1,10 @@
 # The Boy, The Mole, The Fox, and The Horse 
 👦🏼🐭🦊🐴
 
-When you are having some imposter syndrome, feeling down, or having some troubling thoughts...
+( I know it's a mouse and not a mole, it's close enough yeah? )
+
+---
+When you have some imposter syndrome, feeling down, or having some troubling thoughts...
 
 Must be run with Python3 interpreter
 
