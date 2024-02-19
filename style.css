@@ -1,0 +1,39 @@
+/* FILEPATH: /Users/nick/Tech/github/BMFH/style.css */
+
+/* Reset default styles */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+/* Global styles */
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #f4f4f4;
+    color: #333;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+}
+
+/* Add your custom styles below */
+.container {
+    max-width: 1100px;
+    margin: 0 auto;
+    overflow: hidden;
+    padding: 0 2rem;
+}
+
+.welcome-title{
+    text-align: center;
+    height: 50vh;
+    background-color: rgba(94, 208, 138, 0.5);
+    box-sizing: border-box;
+    justify-content: center;
+    margin: 80px;
+    padding: 2rem;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    border-radius: 8px;
+}
